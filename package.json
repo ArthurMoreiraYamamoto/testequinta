@@ -1,0 +1,14 @@
+{
+  "name": "testequinta",
+  "version": "1.0.0",
+  "description": "Calculadora",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Arhur",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.5.0"
+  }
+}
